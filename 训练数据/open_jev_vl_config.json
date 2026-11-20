@@ -1,0 +1,26 @@
+{
+  "note": "Open-Jev-VL 训练设置建议（报告 §5；Ambient@EgoProactive 2026 超参；字母读出头 + 软标签交叉熵）。未在本机训练。",
+  "base_models": [
+    "Qwen3.5-4B（端侧）",
+    "Qwen3.6-27B（云端复核）"
+  ],
+  "frames": "≤32 帧均匀抽取，长边 512px",
+  "readout": "最后一位置选项字母 token 的 logits → softmax（可加偏置 Δ）",
+  "loss": "软标签交叉熵（= KL(目标‖预测) + 常数）",
+  "lora": {
+    "r": 32,
+    "alpha": 64,
+    "dropout": 0.05,
+    "lr": 0.0001,
+    "schedule": "cosine",
+    "targets": "全部注意力与 MLP 投影"
+  },
+  "eval": [
+    "Macro-F1 / G-mean（q_speak 二分类）",
+    "ECE",
+    "TVD",
+    "RPS（q_level、q_risk 有序题）",
+    "误报率（报警疲劳）"
+  ],
+  "real_data_mix": "建议混入 15–20% 真实第一人称片段（EgoLife / 用户自己的 NextMe 数据）缩小合成域差"
+}

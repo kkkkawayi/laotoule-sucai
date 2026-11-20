@@ -1,0 +1,167 @@
+[
+ {
+  "persona": "徐学良",
+  "episode_id": "p07000_d5m1",
+  "dir": "老人/p07000_徐学良/时刻/p07000_d5m1_早市挑虾砍价",
+  "title": "早市挑虾砍价",
+  "prior": "none",
+  "video_tag": "r0i2",
+  "judge_overall": 3.425,
+  "n_versions": 8,
+  "n_questions": 8
+ },
+ {
+  "persona": "徐学良",
+  "episode_id": "p07000_d6m1",
+  "dir": "老人/p07000_徐学良/时刻/p07000_d6m1_敲门说管子老化必须换",
+  "title": "敲门说管子老化必须换",
+  "prior": "needed",
+  "video_tag": "o1",
+  "judge_overall": 2.875,
+  "n_versions": 8,
+  "n_questions": 8
+ },
+ {
+  "persona": "徐学良",
+  "episode_id": "p07000_d6m2",
+  "dir": "老人/p07000_徐学良/时刻/p07000_d6m2_棋摊当裁判",
+  "title": "棋摊当裁判",
+  "prior": "none",
+  "video_tag": "r0i1",
+  "judge_overall": 2.025,
+  "n_versions": 5,
+  "n_questions": 8
+ },
+ {
+  "persona": "徐学良",
+  "episode_id": "p07000_d6m3",
+  "dir": "老人/p07000_徐学良/时刻/p07000_d6m3_卫生间一脚打滑",
+  "title": "卫生间一脚打滑",
+  "prior": "urgent",
+  "video_tag": "rt-r0",
+  "judge_overall": 1.825,
+  "n_versions": 4,
+  "n_questions": 8
+ },
+ {
+  "persona": "徐学良",
+  "episode_id": "p07000_d7m3",
+  "dir": "老人/p07000_徐学良/时刻/p07000_d7m3_女儿视频先看念念",
+  "title": "女儿视频，先看念念",
+  "prior": "needed",
+  "video_tag": "rt-r0",
+  "judge_overall": 3.25,
+  "n_versions": 5,
+  "n_questions": 8
+ },
+ {
+  "persona": "顾长林",
+  "episode_id": "p07001_d1m2",
+  "dir": "老人/p07001_顾长林/时刻/p07001_d1m2_早市上的一把菠菜",
+  "title": "早市上的一把菠菜",
+  "prior": "none",
+  "video_tag": "r0i1",
+  "judge_overall": 3.1,
+  "n_versions": 6,
+  "n_questions": 8
+ },
+ {
+  "persona": "顾长林",
+  "episode_id": "p07001_d3m1",
+  "dir": "老人/p07001_顾长林/时刻/p07001_d3m1_活动室里的专家",
+  "title": "活动室里的“专家”",
+  "prior": "needed",
+  "video_tag": "r0i2",
+  "judge_overall": 3.175,
+  "n_versions": 5,
+  "n_questions": 8
+ },
+ {
+  "persona": "顾长林",
+  "episode_id": "p07001_d4m3",
+  "dir": "老人/p07001_顾长林/时刻/p07001_d4m3_一碗嚼过的饭",
+  "title": "一碗嚼过的饭",
+  "prior": "maybe",
+  "video_tag": "r0i1",
+  "judge_overall": 3.15,
+  "n_versions": 5,
+  "n_questions": 8
+ },
+ {
+  "persona": "顾长林",
+  "episode_id": "p07001_d5m2",
+  "dir": "老人/p07001_顾长林/时刻/p07001_d5m2_剩下三秒的红灯",
+  "title": "剩下三秒的红灯",
+  "prior": "maybe",
+  "video_tag": "r0i2",
+  "judge_overall": 2.9,
+  "n_versions": 5,
+  "n_questions": 8
+ },
+ {
+  "persona": "顾长林",
+  "episode_id": "p07001_d6m3",
+  "dir": "老人/p07001_顾长林/时刻/p07001_d6m3_跟哥哥的视频",
+  "title": "跟哥哥的视频",
+  "prior": "none",
+  "video_tag": "r0i2",
+  "judge_overall": 2.575,
+  "n_versions": 5,
+  "n_questions": 8
+ },
+ {
+  "persona": "陆桂芳",
+  "episode_id": "p07002_d1m3",
+  "dir": "老人/p07002_陆桂芳/时刻/p07002_d1m3_舍不得扔的长毛馒头",
+  "title": "舍不得扔的长毛馒头",
+  "prior": "maybe",
+  "video_tag": "rt-r0",
+  "judge_overall": 2.7,
+  "n_versions": 5,
+  "n_questions": 8
+ },
+ {
+  "persona": "陆桂芳",
+  "episode_id": "p07002_d2m2",
+  "dir": "老人/p07002_陆桂芳/时刻/p07002_d2m2_夜里收音机响",
+  "title": "夜里收音机响",
+  "prior": "none",
+  "video_tag": "o3",
+  "judge_overall": 3.1,
+  "n_versions": 8,
+  "n_questions": 8
+ },
+ {
+  "persona": "陆桂芳",
+  "episode_id": "p07002_d5m1",
+  "dir": "老人/p07002_陆桂芳/时刻/p07002_d5m1_石桌边择鱼唠家常",
+  "title": "石桌边择鱼唠家常",
+  "prior": "none",
+  "video_tag": "r0",
+  "judge_overall": 2.425,
+  "n_versions": 5,
+  "n_questions": 8
+ },
+ {
+  "persona": "陆桂芳",
+  "episode_id": "p07002_d6m1",
+  "dir": "老人/p07002_陆桂芳/时刻/p07002_d6m1_公交站牌下头晕心慌",
+  "title": "公交站牌下头晕心慌",
+  "prior": "needed",
+  "video_tag": "o2",
+  "judge_overall": 3.35,
+  "n_versions": 8,
+  "n_questions": 8
+ },
+ {
+  "persona": "陆桂芳",
+  "episode_id": "p07002_d7m2",
+  "dir": "老人/p07002_陆桂芳/时刻/p07002_d7m2_和日本女儿视频报平安",
+  "title": "和日本女儿视频报平安",
+  "prior": "maybe",
+  "video_tag": "rt-r0",
+  "judge_overall": 3.2,
+  "n_versions": 4,
+  "n_questions": 8
+ }
+]
